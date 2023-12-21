@@ -1,4 +1,4 @@
-### 안녕하세요 성장하는 데이터사이언티스트 김병욱입니다.👋
+### 안녕하세요 데이터사이언티스트 김병욱입니다.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdanbkim93)](https://hits.seeyoufarm.com)
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
